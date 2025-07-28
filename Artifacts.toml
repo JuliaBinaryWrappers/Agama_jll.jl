@@ -1,0 +1,160 @@
+[[Agama]]
+arch = "aarch64"
+git-tree-sha1 = "ec27a226def7207f8e3a79bb2ad63dedb670a6f8"
+os = "macos"
+
+    [[Agama.download]]
+    sha256 = "b35c94b2aedacf28bbc9854a4c774b8488eaf18f1e495e2a29c43cdfc8f26c61"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[Agama]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "afd679afed95cfc833761ea541694762f0aa589b"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "e9bc569ae7c3fece194c1fce7c72fe0274efb04057947ab8438af913c5144c70"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Agama]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f51084bf74701f9a504edbbec57b7a30e2aa5c9a"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "28929d195fc023275a22270676d2f7dff48976976c9e374545132d157bee484c"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Agama]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ea138e49da6f346d35204a416c0d83866f3d0a5"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "c8f58a4198dac214500f8547e80c0aadd076d71c5c3b47d2010a89e1502cbd9d"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Agama]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "09ebe77dbffb23260cc9a9768f5894effb78975b"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "8b56b71ba3457b70429f44037fd4a31d75802de287f63cd990b67f73ac79f9b3"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Agama]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a298cd31aaa030bc1295752ebb675d394ff74261"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "b4dd8d6395e5044cc7197bfa0a80626df88dc526282a9e5a56db35257d135447"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Agama]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbdc8863f4409bbb8a37cb3d2b1571ad52bea7ef"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "353933182f89800c35672f4cd413acb5911903d16c8ad765b392833ff3f2a29a"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Agama]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e1c1dc8ca4ae8215235218fea58f8f9055cd2ea9"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "64a4c1133f5c0bc660e5edd6f11b2481dd0298f36e4e0df5de61214e724b1650"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[Agama]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "999c0d57f1e29fb33b30a5456bffe69eefef3dc2"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "5d056e21d67fc0e47446015e28d51ea40f7220b98e084c2c6065ea43f912567f"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[Agama]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "76ab143cfd33bd21e7f49e8b23fa9b42f3c1b3f9"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "4463cbdc479ebfefb17c034bfbda5d03b352c3da346c12ae1dd2cd6439e49c8c"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Agama]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d0a9e49abf21688aa9ce7efbae17857c38c66f1d"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "ea9315428fc4f199f6647d5a41ac0d72a11f5d892351a8552d7d485a758a01aa"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Agama]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f547e8cfb8c19d07b34605c2c2b5ab4b2eedf52f"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "4a4ae82268fd55f02639d856e7b2f91697ab401d02f1f1d0bcc56af394f8459a"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[Agama]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31512c6d98e3dd6e4b88055e9ea0904d755475d5"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "21f39f608b9ab84d52855895741e05e41ab3af84928def4ff397f9d45f920134"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[Agama]]
+arch = "x86_64"
+git-tree-sha1 = "9b684fcb54427f3e688ae8e2d55b1dbac73863a7"
+os = "macos"
+
+    [[Agama.download]]
+    sha256 = "180da08cb8565d81e6ae48f4a1efb80ac62dd81b84d0e4cebc7e579dd2a920da"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[Agama]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f51d0154838d38a439dafc9865f7ec0fa20298fb"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "725d4a786ae0dd93f682562492d54f75f58eacd2dfcb91a2bc7197e6753d8d7f"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Agama]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4de2a9ae6c7ee03895c5987ec54e270cc4ae5010"
+libc = "glibc"
+os = "linux"
+
+    [[Agama.download]]
+    sha256 = "e7e6bb07d7da2a74e749de32dd769ec87e20ec7be4ddc6e9cd5f9872d91e62d9"
+    url = "https://github.com/JuliaBinaryWrappers/Agama_jll.jl/releases/download/Agama-v1.0.0+0/Agama.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
