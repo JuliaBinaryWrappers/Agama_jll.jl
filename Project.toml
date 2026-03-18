@@ -1,6 +1,6 @@
 name = "Agama_jll"
 uuid = "966baf2c-d1f1-5710-8d7e-4d538f29c110"
-version = "1.0.0+0"
+version = "1.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
